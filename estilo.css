@@ -1,0 +1,12 @@
+.nav-item a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 0.1rem 0.1rem 0.1rem 0.1rem;
+    border-color: rgb(14, 221, 7);
+    border-radius: 5px;
+    color: #010216;
+    background: rgb(127, 170, 250);
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem cornsilk;
+    transition: all  2s;
+}
